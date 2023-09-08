@@ -4,6 +4,7 @@ my clash merge file by all direct connection
 v2free url: [https://v2-free.github.io/](https://v2-free.github.io/)
 # rules
 ```yaml
+ - DOMAIN-SUFFIX,pcbeta.com,🎯 全球直连
  - DOMAIN-SUFFIX,bdxiguastatic.com,🎯 全球直连
  - DOMAIN-SUFFIX,ixigua.com,🎯 全球直连
  - DOMAIN-SUFFIX,360doc.com,🎯 全球直连
